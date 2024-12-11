@@ -94,3 +94,18 @@ p{
     align-items: center;
     justify-content: center;
 }
+
+#scissors{
+    font-size: xx-large;
+    color: green;
+}
+
+#rock{
+    font-size: xx-large;
+    color: green;
+}
+
+#paper{
+    font-size: xx-large;
+    color: green;
+}
